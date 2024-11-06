@@ -1,0 +1,13 @@
+{
+    "name": "ramizmurtaza/hell-world",
+    "description": "A description of your PHP package",
+    "autoload": {
+      "psr-4": {
+        "YourNamespace\\": "src/"
+      }
+    },
+    "require": {
+      "php": "^7.4 || ^8.0"
+    }
+  }
+  
