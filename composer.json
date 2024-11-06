@@ -1,13 +1,13 @@
 {
     "name": "ramizmurtaza/php-test-package",
     "description": "A description of your PHP package",
+    "license": "MIT",
     "autoload": {
-      "psr-4": {
-        "YourNamespace\\": "src/"
-      }
+        "psr-4": {
+            "YourNamespace\\": "src/"
+        }
     },
     "require": {
-      "php": "^7.4 || ^8.0"
+        "php": "^7.4 || ^8.0"
     }
-  }
-  
+}
