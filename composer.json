@@ -8,9 +8,6 @@
         }
     },
     "require": {
-        "php": "^7.4 || ^8.0",
-         "ramizmurtaza/php-test-package": "main"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+        "php": "^7.4 || ^8.0"
+    }
 }
