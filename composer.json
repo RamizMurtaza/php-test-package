@@ -1,5 +1,5 @@
 {
-    "name": "RamizMurtaza/php-test-package",
+    "name": "ramizmurtaza/php-test-package",
     "description": "A description of your PHP package",
     "autoload": {
       "psr-4": {
